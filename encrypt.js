@@ -17,3 +17,4 @@ var fso  = new ActiveXObject("Scripting.FileSystemObject");
 var fh = fso.CreateTextFile("ciphertext.txt",2, true); 
 fh.WriteLine(result); 
 fh.Close(); 
+
