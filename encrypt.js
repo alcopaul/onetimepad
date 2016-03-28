@@ -1,7 +1,7 @@
 var lib64 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var wsh = new ActiveXObject("WScript.Shell");
-var str = "HELLOWEARE6886PULSARWEAREGOINGTOINVADETHEEARTH";
-var key = "E2WH4UJM90O0PWQZX1VB6IYMLUP34G66TU8OLL09POT67N";
+var str = "INDIGOREDMUSALTP2T";
+var key = "PAULYELENA4028PLOT";
 var result = "";
 for (var i = 0; i < str.length; i++)
 {
