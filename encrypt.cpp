@@ -7,7 +7,7 @@ int main()
 {
 	string lib64 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	string str1 = "INDIGOREDMUSALTP2T";
-    string key1 = "PAULYELENA4028PLOT";
+        string key1 = "PAULYELENA4028PLOT";
 	string result = "";
 	for (int i = 0; i < str1.length(); i++)
 	{
