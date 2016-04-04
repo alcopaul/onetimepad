@@ -9,7 +9,7 @@ int main()
 	string str1 = "INDIGOREDMUSALTP2T";
         string key1 = "PAULYELENA4028PLOT";
 	string result = "";
-	for (int i = 0; i < str1.length(); i++)
+	for (int i = 0; i < (int) str1.length(); i++)
 	{
 		int k = lib64.find(str1.substr(i, 1)) + lib64.find(key1.substr(i,1));
 		if (k >= 36)
