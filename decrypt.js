@@ -1,7 +1,7 @@
 var lib64 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var wsh = new ActiveXObject("WScript.Shell");
-var ciphertext = "7X73E2CS0WYSCTIAQM";
-var key = "PAULYELENA4028PLOT";
+var ciphertext = "";
+var key = "";
 var result = "";
 for (var i = 0; i < ciphertext.length; i++)
 {
