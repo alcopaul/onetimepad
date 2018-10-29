@@ -6,8 +6,8 @@ using namespace std;
 int main()
 {
 	string lib64 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	string str1 = "INDIGOREDMUSALTP2T";
-        string key1 = "PAULYELENA4028PLOT";
+	string str1 = "";
+        string key1 = "";
 	string result = "";
 	for (int i = 0; i < (int) str1.length(); i++)
 	{
